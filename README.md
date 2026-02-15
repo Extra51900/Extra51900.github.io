@@ -1,2 +1,2 @@
 # extra51900.github.io
-Brian's personal website
+This is my personal website I made for the Devsoc training program applicaton :)
